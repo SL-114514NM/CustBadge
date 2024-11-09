@@ -1,6 +1,13 @@
+---
+
 # 面对插件开发者
 实例代码
 CustBadge.Cust.AddBadge(player.UserId, "称号", "yellow");//第一个参数是必填的，是"player.UserId"。第二个参数是设定徽章名称，第三个参数则是设定徽章的颜色
-# 面对服务器拥有者
+
+---
+
+#  面对服务器拥有者
 在插件安装完之后在SCP Secret Laboratory\PluginAPI\(端口号)\PlayerBadge_config.txt里面，设置玩家的自定义徽章。
 格式[(steam64ID)@steam:"徽章":"yellow"]
+
+---
